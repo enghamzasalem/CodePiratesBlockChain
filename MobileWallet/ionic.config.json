@@ -1,0 +1,12 @@
+{
+  "name": "Ionic-Ethereum-Wallet",
+  "app_id": "",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ],
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  }
+}
