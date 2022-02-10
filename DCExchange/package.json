@@ -65,7 +65,7 @@
   },
   "devDependencies": {
     "expose-loader": "^0.7.3",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.6"
   },
   "scripts": {
